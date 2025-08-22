@@ -26,6 +26,3 @@ Artifacts (plots/CSV) land in `outputs/`.
 
 > This is a **scaffold**: the math is simplified for clarity. Extend as needed for your study.
 
-## Citations (placeholders)
-- Anselmi & Walton (2021/2022): stability & optimal timeouts in speculative queueing networks.
-- Li et al. (2024): libDSE (distributed speculative execution).
